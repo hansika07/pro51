@@ -1,0 +1,48 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:thistle;
+    font-size: 50px;
+    font-family: fantasy;
+    font-weight: 400;
+    color:black;
+}
+.gridImg{
+    border: 2px solid black;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: thistle;
+}
+.origami{
+    font-family: fantasy;
+    width: 310px;
+    background-color: white;
+    height: 700;
+    color: black;
+    margin-right: 20px;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 3px solid black;
+}
+.body{
+    background-color: whitesmoke;
+}
+.instructions{
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 4px;
+    color: black;
+    
+
+}
+.animalImg{
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-left:20px;
+}
+body{
+    background-color:gray;
+    margin: 5px;
+}
